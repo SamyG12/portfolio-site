@@ -20,4 +20,10 @@ Blog section where you add blogs
 #HTML 23.0%
 #CSS 19.1%
 
+Links to the projects included in the Portfolio:
+https://github.com/SamyG12/TTP_Projects/tree/main/LightDarkMode
+https://github.com/SamyG12/TTP_Projects/tree/main/The%20choice
+https://github.com/SamyG12/TTP_Projects/tree/main/background
+https://github.com/SamyG12/TTP_Projects/tree/main/drinkWater
+https://github.com/SamyG12/TTP_Projects/tree/main/DoubleClickLike
 
